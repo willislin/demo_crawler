@@ -1,7 +1,7 @@
-# demo_crawler
+## demo_crawler
 
-Server configuration
+ domo_crawler mini-project made with Caddy, Flask, MongoDB. Dockerfile is also available to make docker image and docker containers.
+ 
+ ## Run the application
 
-caddy+flask+mongodb 
-Using the dockr environment
 
